@@ -1,4 +1,4 @@
-# forwardeployed-work
+# CerebrixOS
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,100 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-forwardeployed-work is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://forwardeployed.work/
+CerebrixOS provides forward‑deployed AI workforce solutions, offering AI‑enabled diagnosis, research, analysis, and delivery across finance, HR, supply‑chain, IT, marketing, sales, and manufacturing. Their platform delivers AI workforce tools, consulting, managed services, and software licenses to embed AI capabilities directly into enterprise processes, enabling process diagnostics, AI audits, simulations, and watchtower monitoring.
+
+**Areas:** AI Workforce · Process Diagnostic · AI Process Audit · Simulation · Judgement as a Service · Embedded Support · Watchtower · Sovereign Log Analysis
+
+## CerebrixOS on APIs.io
+
+Everything profiled for CerebrixOS is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/forwardeployed-work/](https://apis.io/providers/forwardeployed-work/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Forward Deployed Work API](https://apis.io/apis/forwardeployed-work/forward-deployed-work-api/) — API for Forward Deployed Work, documented at https://cerebrixos.com/guides
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Forwardeployed Work Domain Security](https://apis.io/security/forwardeployed-work/forwardeployed-work-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Forwardeployed Work Plans Pricing](https://apis.io/plans/forwardeployed-work/forwardeployed-work-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cerebrixos.com/)
+- [Documentation](https://cerebrixos.com/guides)
+- [Getting started](https://cerebrixos.com/guides/forward-deployed-in-finance)
+- [API reference](https://cerebrixos.com/guides)
+- [Pricing](https://cerebrixos.com/pricing)
+- [Support](https://cerebrixos.com/contact)
+- [Blog](https://cerebrixos.com/blog)
+- [Terms of service](https://cerebrixos.com/terms)
+- [Privacy policy](https://cerebrixos.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 26.2** — thin · rubric 0.27.0 · scored 2026-11-08
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 60.0 |
+
+**Agent readiness 18.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/forwardeployed-work/](https://apis.io/providers/forwardeployed-work/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CerebrixOS: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/forwardeployed-work/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
